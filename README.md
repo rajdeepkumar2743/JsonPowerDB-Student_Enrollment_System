@@ -1,4 +1,4 @@
-# JsonPowerDB Micro Project – Student / Employee Form (CRUD Operations)
+# JsonPowerDB Student Enrollment System(CRUD Operations)
 
 ## 📌 Project Overview
 This project demonstrates how to perform **CRUD operations** using  
